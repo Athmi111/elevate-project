@@ -30,3 +30,13 @@ How to Run:
   5.learnt feature-level inferences
  
 [screenshots.pdf](https://github.com/user-attachments/files/21599635/screenshots.pdf)
+date: 7-08-25
+task: Linear Regression
+ 1.collect the data by loading and training the data
+ 2. split the data 
+ 3. use linear regression method 
+ 4. evaluate the model by checking the error in the data by MAE, R^2, MSE
+ 5. plot the regression line of the data 
+[screenshots_day3.pdf](https://github.com/user-attachments/files/21669449/screenshots_day3.pdf)
+
+ 
