@@ -21,6 +21,8 @@ How to Run:
  
  [screenshots.pdf](https://github.com/user-attachments/files/21572428/screenshots.pdf)
 
+
+
  date: 5/08/25
  task : EDA
   1.generated a summary statistics
@@ -30,6 +32,8 @@ How to Run:
   5.learnt feature-level inferences
  
 [screenshots.pdf](https://github.com/user-attachments/files/21599635/screenshots.pdf)
+
+
 date: 7-08-25
 task: Linear Regression
  1.collect the data by loading and training the data
@@ -37,6 +41,19 @@ task: Linear Regression
  3. use linear regression method 
  4. evaluate the model by checking the error in the data by MAE, R^2, MSE
  5. plot the regression line of the data 
+
 [screenshots_day3.pdf](https://github.com/user-attachments/files/21669449/screenshots_day3.pdf)
+
+date: 8-08-25
+task: logistic regression
+  1. chose binary classification
+  2. training and splitting of data done
+  3. use the regression model using Scikit-learn
+  4. evaluated confusion, recall, precision and AUC-ROC curve
+  5. using threshold of 0.5 and sigmoid function
+     
+[screenshots_day4.pdf](https://github.com/user-attachments/files/21683096/screenshots_day4.pdf)
+
+ 
 
  
