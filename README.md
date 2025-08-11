@@ -51,8 +51,21 @@ task: logistic regression
   3. use the regression model using Scikit-learn
   4. evaluated confusion, recall, precision and AUC-ROC curve
   5. using threshold of 0.5 and sigmoid function
+
+   [screenshots_day4.pdf](https://github.com/user-attachments/files/21683096/screenshots_day4.pdf)
+
+date: 11-08-25
+task: tree based classification and regression
+   1. visualize and train the tree after classifying it
+   2. Avoiding overfitting data and control the depth
+   3. Train random forest method and analyse
+   4. Interpret features
+   5. Cross validation
+
+      
      
-[screenshots_day4.pdf](https://github.com/user-attachments/files/21683096/screenshots_day4.pdf)
+[screenshots_day4.pdf](https://github.com/user-attachments/files/21715039/screenshots_day4.pdf)
+
 
  
 
