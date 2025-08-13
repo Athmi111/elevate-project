@@ -66,6 +66,19 @@ task: tree based classification and regression
      
 [screenshots_day4.pdf](https://github.com/user-attachments/files/21715039/screenshots_day4.pdf)
 
+date: 13-08-25
+task: knn algothrim
+
+  1. choose iris dataset and normalize
+  2. use knn classification
+  3. use different k values
+  4. evaluate the accuracy and cpnfusion matrix
+  5. visualize the boundaries
+
+[screenshots_day6.pdf](https://github.com/user-attachments/files/21753433/screenshots_day6.pdf)
+
+
+
 
  
 
